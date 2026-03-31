@@ -110,7 +110,9 @@ Step-by-Step Instructions:
   chmod +x script*.sh
   Run each script:
 
-3. bash
+3. Run Each Script:
+   
+   bash
   ./script1_system_identity.sh
   ./script2_git_inspector.sh
   ./script3_disk_auditor.sh
