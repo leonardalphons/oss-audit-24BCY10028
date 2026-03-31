@@ -72,7 +72,7 @@ Step-by-Step Instructions:
                               Mar 30 14:23:15 hostname kernel: ERROR: buffer overflow
 
 
-##Script 5: Open Source Manifesto Generator
+## Script 5: Open Source Manifesto Generator
 File: "script5_manifesto.sh" 
 Purpose: Interactive script asking 3 questions, generates personalized open source philosophy, saves to file.  
 Concepts Demonstrated: "read -p" for user input, string concatenation, file writing ("cat >"), heredoc "<< EOF", "date".  
